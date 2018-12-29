@@ -1,0 +1,14 @@
+void
+let x = 0
+let y = 0
+begin
+read ( x ):
+read ( y ):
+print ( x+y ):
+print ( x-y):
+print ( x*y):
+print (x/y):
+print (-x):
+print (-y):
+print (-(x+y)):
+end

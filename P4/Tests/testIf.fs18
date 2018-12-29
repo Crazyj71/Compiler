@@ -1,0 +1,15 @@
+void
+begin
+cond(2<5)
+print(1):
+cond(2>5)
+print(2):
+cond(2<=2)
+print(3):
+cond(2>=2)
+print(4):
+cond(2==2)
+print(5):
+cond(2=2)
+print(6):
+end

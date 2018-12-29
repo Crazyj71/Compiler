@@ -1,0 +1,15 @@
+void
+begin
+let iterator = 0
+let max = 0
+begin		
+	read(max):
+	cond(max>0)
+	iter(iterator < max)
+	begin
+		iterator = iterator + 1 :
+		print(iterator):
+	end
+end
+end
+

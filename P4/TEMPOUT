@@ -1,0 +1,1 @@
+void let x = 5 begin print(x): end
